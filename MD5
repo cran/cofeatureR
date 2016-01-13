@@ -1,8 +1,8 @@
-1a5ada8520379664716accff8500d717 *DESCRIPTION
+7ef8ed6462e464ddec85dddbc1714f14 *DESCRIPTION
 8369eacf52e4038d6c646cc9233c176f *LICENSE
 afdbe68abcd73a4be73b92fd86ca9c7a *NAMESPACE
 d9e17eed4f5e4c3f2fc3df29c6f8f29a *R/cofeatureR-package.R
-d6fe6b14292c6ed296a96055bade6e9e *R/plot_cofeature_mat.R
-d27292fc56f79c29b7c779d1668ab429 *README.md
+4cf54c7ef300c2d3b3a00703a1ed433d *R/plot_cofeature_mat.R
+fef69dd6a2d18ee5aed9b0048ef2d9a7 *README.md
 2d6c0fc62cb9f145472be8e2b86f9aed *man/cofeatureR.Rd
 f50954251d7ec002c2ee9abc7eb05977 *man/plot_cofeature_mat.Rd
