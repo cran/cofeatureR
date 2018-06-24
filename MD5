@@ -1,9 +1,9 @@
-25894ecbf24ebd5fbe12d17b3821a25a *DESCRIPTION
+5a791467faab97c50650631eff6cc9fc *DESCRIPTION
 649693354da3e4f135d5343a55582d2f *NAMESPACE
-464f6ea47ace6edb38e3648dfd3b3f82 *NEWS.md
+b8d4c52854f885a133b4e13c38bba701 *NEWS.md
 d809c6dd28ce91d4ac579ce22f28bfe9 *R/cofeatureR-package.R
 8e3fb4a3fb159862dfd94ee57fc6c7c8 *R/plot_cofeature_mat.R
-71999cf8b0403f02aebb22987a94fdb3 *README.md
+04d7f5d26039200ebab19c769ba1b93f *README.md
 f3d946a8acb59f8da0629e0af0234596 *man/add_tiles.Rd
 53cdeba8ef37dc7756f655b9e352a368 *man/cofeatureR.Rd
 3a34cb6615d85dff56de4adccbf7eb26 *man/figures/example-1.png
